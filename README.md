@@ -2,7 +2,7 @@
 
 # Bio
 
-I'm Isabelle, a self-taught full stack web developer from Brazil. 
+I'm Isabelle, a self-taught backend developer from Brazil. 
 
 ### Worked/Working with...
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
