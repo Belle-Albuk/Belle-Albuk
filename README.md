@@ -2,7 +2,7 @@
 
 # About
 
-Started my career as a lab analyst, discovered programming while trying to automate a task on my last job and fell in love. Right now I'm trying to make a full career transition to Back-end development.
+Started my career as a lab analyst, discovered programming while trying to automate a task on my last job and fell in love with it. Right now I'm trying to make a full career transition to Back-end development.
 
 ### Tech stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
