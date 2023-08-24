@@ -2,8 +2,6 @@
 
 # About
 
-Started my career as a lab analyst, discovered programming while trying to automate a task on my last job and fell in love with it. Right now I'm trying to make a full career transition to Back-end development.
-
 ### Working with...
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
